@@ -1,4 +1,4 @@
-#c1trus
+# c1trus
 
 An untethered/tethered downgader for A7 and A8 devices.
 
@@ -7,7 +7,7 @@ Supports macOS and Linux
 Follow on Instagram! 
 https://www.instagram.com/c1trus.officieel?igsh=eGVic2hjOXZkODNh&utm_source=qr
 
-#Supported devices and versions:#
+# Supported devices and versions:
 
 iPhone 6 and 6 Plus:
 
@@ -21,16 +21,16 @@ iPhone 5S (both of iPhone6,1 and 6,2)
 
 A6 (soon)
 
-#Usage:#
+# Usage:
 
 Download the latest release.
 
-Run: './c1trus.sh
+Run: './c1trus.sh'
 
-#Thanks to:#
+# Thanks to:
 
 libimobiledevice team, tihmstar, LukeeGD/LukeZGD, xerub, plooshi and synackuk
 
-#Special thanks to:#
+# Special thanks to: 
 
 HeliX and erdincdonmez ( for their support )
