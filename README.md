@@ -17,7 +17,7 @@ iPhone 5S (both of iPhone6,1 and 6,2)
 
 10.3.3 (untethered-with sep)
  
-#Experimental supported devices ( if there are bugs please issue it )#
+# Experimental supported devices ( if there are bugs please issue it )
 
 A6 (soon)
 
