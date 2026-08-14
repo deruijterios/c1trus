@@ -25,7 +25,7 @@ A6 (soon)
 
 Download the latest release.
 
-Run: ` c1trus.sh `
+Run: ` ./c1trus.sh `
 
 # Thanks to:
 
