@@ -1,6 +1,6 @@
 # c1trus
 
-An untethered/tethered downgader for A7 and A8 devices.
+An untethered/tethered downgrader for A7 and A8 devices.
 
 Supports macOS and Linux
 
@@ -33,4 +33,4 @@ libimobiledevice team, tihmstar, LukeeGD/LukeZGD, xerub, plooshi and synackuk
 
 # Special thanks to: 
 
-HeliX and erdincdonmez ( for their support )
+HeliX
