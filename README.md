@@ -2,7 +2,7 @@
 
 An untethered/tethered downgrader for A7 and A8 devices.
 
-Supports macOS and Linux
+Supports only macOS. Linux support is under development...
 
 Follow on Instagram! 
 https://www.instagram.com/c1trus.officieel?igsh=eGVic2hjOXZkODNh&utm_source=qr
@@ -11,21 +11,22 @@ https://www.instagram.com/c1trus.officieel?igsh=eGVic2hjOXZkODNh&utm_source=qr
 
 iPhone 6 and 6 Plus:
 
-11.4.1-12.5.7 (tethered-with sep)(still under development, testing)
+11.4.1-12.5.7 (still under development, testing)
 
 iPhone 5S (both of iPhone6,1 and 6,2)
 
 10.3.3 (untethered-with sep)
  
-# Experimental supported devices ( if there are bugs please issue it )
+# Soon:
 
-A6 (soon)
+A6 (still under development, testing)
 
 # Usage:
 
 Download the latest release.
 
-Run: ` ./c1trus.sh `
+First: ` sudo chmod +x c1trus.sh `
+Then run: ` ./c1trus.sh `
 
 # Thanks to:
 
