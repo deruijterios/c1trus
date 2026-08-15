@@ -11,7 +11,7 @@ https://www.instagram.com/c1trus.officieel?igsh=eGVic2hjOXZkODNh&utm_source=qr
 
 iPhone 6 and 6 Plus:
 
-11.4.1-12.5.7 (untethered-with sep)
+11.4.1-12.5.7 (tethered-with sep)(still under development, testing)
 
 iPhone 5S (both of iPhone6,1 and 6,2)
 
