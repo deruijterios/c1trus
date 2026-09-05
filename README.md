@@ -34,14 +34,23 @@ On Legacy-iOS-Kit
 
 Connect to SSH
 Run : ` cd .. ` 3 times.
+
 Run : ` mount -t hfs /dev/disk0s1s1 /mnt1 `
+
 Open an another terminal window.
+
 Run : ` iproxy 2222 22 `
+
 Wait 3-4 seconds.
+
 Open an another terminal window.
+
 You can get dsc64patcher from Semaphorin's binaries:
+
 (https://github.com/LukeZGD/Semaphorin)
+
 Run : 
+
 ` scp -P2222 root@localhost:/mnt1/System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64 dyld.raw `
 
 ` ./dsc64patcher dyld.raw dyld.patched -8 `
@@ -49,22 +58,34 @@ Run :
 ` scp -P2222 dyld.patched root@localhost:/mnt1/System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64 `
 
 Then close the second and third page.
+
 Run : ` cd .. `
+
 Run : ` umount mnt1 `
+
 And exit.
 
 On sshrd_script
 
 Run : ` ./sshrd.sh 12.0 `
+
 Run : ` ./sshrd.sh boot `
+
 Run : ` ./sshrd.sh ssh `
+
 Run : ` mount_hfs /dev/disk0s1s1 /mnt1 `
+
 Open an another terminal window.
+
 Run : ` iproxy 2222 22 `
+
 Wait 3-4 seconds.
+
 Open an another terminal window.
+
 You can get dsc64patcher from Semaphorin's binaries:
 (https://github.com/LukeZGD/Semaphorin)
+
 Run : 
 ` scp -P2222 root@localhost:/mnt1/System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64 dyld.raw `
 
@@ -73,8 +94,11 @@ Run :
 ` scp -P2222 dyld.patched root@localhost:/mnt1/System/Library/Caches/com.apple.dyld/dyld_shared_cache_arm64 `
 
 Then close the second and third page.
+
 Run : ` cd .. `
+
 Run : ` umount mnt1 `
+
 And exit.
 
 # Thanks to:
